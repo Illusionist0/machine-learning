@@ -1,4 +1,6 @@
 # machine-learning
-Levi  Ze'nan Tsui's report of machine learning
-KNN & NaiveBayes
-HUST
+Levi Tsui's report of machine learning
+<br>KNN & NaiveBayes
+<br>HUST
+<br>dataset:voice.csv
+
