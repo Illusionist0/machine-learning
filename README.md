@@ -1,5 +1,5 @@
 # machine-learning
-Levi Tsui's report of machine learning
+xzn's report of machine learning
 
 KNN & NaiveBayes
 
